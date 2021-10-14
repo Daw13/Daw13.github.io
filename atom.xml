@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-08T11:26:03.544Z</updated>
+  <updated>2021-10-14T07:10:59.424Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Go out!</title>
+    <link href="http://example.com/2021/10/14/Go-out/"/>
+    <id>http://example.com/2021/10/14/Go-out/</id>
+    <published>2021-10-14T06:52:24.000Z</published>
+    <updated>2021-10-14T07:10:59.424Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a diary.</p><p>我试图从一些杂乱的事物中走出来，这是我的第一个念头。我的念头如同触须般四处感知与它相匹配的内容——也许是前夜的无止境的欲望如野兽般的侵袭，又或者是一整个长夜的囚笼梦境。在现实同午后温和日光一同照进室内摆设的肉体的瞬间，仿佛一切都被赋予了生命，又在我尝试聚焦感受的瞬间死亡。</p><p>器物在想象的片刻拥有了我们的生命，在抽丝剥茧的片刻又成为机械，而它们本身应许是有着自己的生命形式——我们通常不会承认的那种，但我会承认。万物有灵昭示的未必是细胞，而是运动，是碰撞，是环环相扣又时时拖沓，是混乱的和谐。</p><p>那么，让我的生命做些什么吧！带着它的侵略性，带着它的健全的四肢与清醒的五感，带着它升华的意识与复杂的理性，带着它神秘的憧憬与隐隐约约的幻想！从事物的表面走出来，在它们的内里深挖真相——属于世界的、属于我们的，追逐目标或者顺服本能，这两者没有什么不同。让生命彻底成为自己，这就是我想要说的。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;This is a diary.&lt;/p&gt;
+&lt;p&gt;我试图从一些杂乱的事物中走出来，这是我的第一个念头。我的念头如同触须般四处感知与它相匹配的内容——也许是前夜的无止境的欲望如野兽般的侵袭，又或者是一整个长夜的囚笼梦境。在现实同午后温和日光一同照进室内摆设的肉体的瞬间，仿佛一切</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>About me</title>
